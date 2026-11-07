@@ -1,2 +1,3 @@
-# gfpt2532-scratch-probe-q7k2
-Scratch probe repository for a task fixture (safe to retire).
+# Scratch probe
+
+Fixture repository used to validate tool behaviour. Safe to retire.
