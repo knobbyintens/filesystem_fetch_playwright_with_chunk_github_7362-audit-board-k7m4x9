@@ -1,0 +1,79 @@
+{
+  "organization": "Corvus Labs",
+  "catalog_version": "2026.11",
+  "datasets": [
+    {
+      "name": "corvus-instruct-v2",
+      "release_channel": "public",
+      "license_code": "CCBY4",
+      "modalities": [
+        "text"
+      ],
+      "notes": "General instruction-tuning corpus for the Corvus-Instruct v2 release."
+    },
+    {
+      "name": "corvus-instruct-v2-partner",
+      "release_channel": "partner",
+      "license_code": "MPL2",
+      "modalities": [
+        "text"
+      ],
+      "notes": "Partner mirror bundle with evaluation prompts and rubric annotations."
+    },
+    {
+      "name": "corvus-instruct-v2-raw",
+      "release_channel": "public",
+      "license_code": "ODCBY1",
+      "modalities": [
+        "text"
+      ],
+      "notes": "Unfiltered crawl slices backing the public instruction corpus."
+    },
+    {
+      "name": "corvus-rl-v3",
+      "release_channel": "internal",
+      "license_code": "APACHE2",
+      "modalities": [
+        "text"
+      ],
+      "notes": "Reward-model training mixtures; internal experimentation only."
+    },
+    {
+      "name": "corvus-eval-suite",
+      "release_channel": "partner",
+      "license_code": "APACHE2",
+      "modalities": [
+        "text"
+      ],
+      "notes": "Held-out evaluation suite shared privately with partners."
+    },
+    {
+      "name": "corvus-code-mix",
+      "release_channel": "public",
+      "license_code": "MIT",
+      "modalities": [
+        "text",
+        "code"
+      ],
+      "notes": "Code-heavy continued-pretraining mixture."
+    },
+    {
+      "name": "corvus-prefs-v1",
+      "release_channel": "partner",
+      "license_code": "GPL3",
+      "modalities": [
+        "text"
+      ],
+      "notes": "Human preference annotations licensed under a copyleft term."
+    },
+    {
+      "name": "corvus-safety-probes",
+      "release_channel": "internal",
+      "license_code": "CCBY4",
+      "modalities": [
+        "text"
+      ],
+      "notes": "Adversarial safety probe set; not cleared for distribution."
+    }
+  ]
+}

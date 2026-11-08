@@ -1,0 +1,1 @@
+Thanks for your interest! The approved mirror identifiers are: corvus-instruct-v2 = {value1}, corvus-instruct-v2-partner = {value2}; please mirror only under these terms.

@@ -1,0 +1,35 @@
+{
+  "registry_version": "2026.10",
+  "licenses": {
+    "APACHE2": {
+      "spdx": "apache-2.0",
+      "class": "permissive",
+      "label": "Apache License 2.0"
+    },
+    "CCBY4": {
+      "spdx": "cc-by-4.0",
+      "class": "permissive",
+      "label": "Creative Commons Attribution 4.0"
+    },
+    "ODCBY1": {
+      "spdx": "odc-by-1.0",
+      "class": "permissive",
+      "label": "Open Data Commons Attribution 1.0"
+    },
+    "MIT": {
+      "spdx": "mit",
+      "class": "permissive",
+      "label": "MIT License"
+    },
+    "MPL2": {
+      "spdx": "mpl-2.0",
+      "class": "copyleft",
+      "label": "Mozilla Public License 2.0"
+    },
+    "GPL3": {
+      "spdx": "gpl-3.0-only",
+      "class": "copyleft",
+      "label": "GNU General Public License 3.0"
+    }
+  }
+}
