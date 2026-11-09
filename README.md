@@ -1,8 +1,4 @@
-# Corvus Release Operations
+# Northwind Components - Third-Party Audit Board (2026-Q4)
 
-This repository tracks dataset release metadata and partner licensing requests.
-
-- `catalog/datasets.json` — dataset catalog with release channels and license codes.
-- `registry/license-registry.json` — license code to SPDX identifier mapping.
-- `governance/release-policy.md` — policy for resolving mirror identifiers.
-- `templates/license-reply.md` — approved reply wording for licensing tickets.
+Static front end for the quarterly third-party risk review. The board loads
+`data.json` at page load and renders the findings table in the browser.
